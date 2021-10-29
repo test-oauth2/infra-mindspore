@@ -14,3 +14,9 @@ data:
         endpoint: http://service-checkpr.robot-gitee.svc.cluster.local:8888/gitee-hook
         events:
         - "Merge Request Hook"
+      - name: label
+        endpoint: http://service-label.robot-gitee.svc.cluster.local:8888/gitee-hook
+        events:
+        - "a"
+        - "b"
+        - "c"
