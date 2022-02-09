@@ -211,3 +211,7 @@ data:
         events:
         - "Merge Request Hook"
         - "Note Hook"
+      - name: robot-gitee-ascend-checkpr
+        endpoint: http://service-checkpr.robot-gitee-ascend.svc.cluster.local:8888/gitee-hook
+        events:
+        - "Merge Request Hook"

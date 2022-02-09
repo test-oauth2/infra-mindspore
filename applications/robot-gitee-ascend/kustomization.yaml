@@ -6,6 +6,7 @@ resources:
 - assign
 - approve
 - cla
+- checkpr
 commonLabels:
   app: infrastructure-robot-gitee
 commonAnnotations:
