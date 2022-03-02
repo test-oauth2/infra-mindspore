@@ -5,6 +5,7 @@ resources:
 - secrets.yaml
 - scavenger
 - cla
+- checkpr
 commonLabels:
   app: infrastructure-robot-gitee
 commonAnnotations:
