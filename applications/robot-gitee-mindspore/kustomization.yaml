@@ -6,6 +6,7 @@ resources:
 - scavenger
 - cla
 - label
+- lifecycle
 commonLabels:
   app: infrastructure-robot-gitee
 commonAnnotations:
