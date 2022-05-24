@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/spec/template/spec/volumes/1/configMap/name",
     "value": "configmap-hook-dispatcher"
+  },
+  {
+    "op": "replace",
+    "path": "/spec/template/spec/containers/0/args/1",
+    "value": "--topic=gitee-webhook-openeuler"
   }
 ]
