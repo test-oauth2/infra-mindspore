@@ -3,6 +3,7 @@ kind: Kustomization
 resources:
 - namespace.yaml
 - secrets.yaml
+- secrets_nlp.yaml
 - lifecycle
 - assign-issue
 - label

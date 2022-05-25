@@ -3,7 +3,6 @@ kind: Kustomization
 resources:
 - ../bot-base
 - configmap.yaml
-- secrets.yaml
 commonLabels:
   component: synchronizer
 patches:
