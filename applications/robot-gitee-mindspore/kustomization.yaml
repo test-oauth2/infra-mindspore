@@ -6,6 +6,7 @@ resources:
 - scavenger
 - cla
 - label
+- checkpr
 commonLabels:
   app: infrastructure-robot-gitee
 commonAnnotations:
