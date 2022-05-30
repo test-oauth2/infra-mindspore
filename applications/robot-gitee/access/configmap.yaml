@@ -141,6 +141,17 @@ data:
         
         huadajiutian/wrapper:
         - robot-gitee-edahelper-cla
+        
+        mindspore:
+        - robot-gitee-mindspore-cla
+        - robot-gitee-mindspore-label
+        - robot-gitee-mindspore-checkpr
+
+        ms-incubator:
+        - robot-gitee-mindspore-cla
+        
+        foundation-models/opt:
+        - robot-gitee-mindspore-cla
 
       plugins:
       - name: lifecycle
