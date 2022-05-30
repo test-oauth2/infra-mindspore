@@ -7,6 +7,7 @@ data:
     config_items:
     - repos:
       - edahelper
+      - huadajiutian/wrapper
       cla_label_yes: edahelper-cla/yes
       cla_label_no: edahelper-cla/no
       check_url: https://clasign.osinfra.cn/api/v1/individual-signing/gitee/edahelper

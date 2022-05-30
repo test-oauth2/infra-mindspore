@@ -138,6 +138,9 @@ data:
 
         edahelper:
         - robot-gitee-edahelper-cla
+        
+        huadajiutian/wrapper:
+        - robot-gitee-edahelper-cla
 
       plugins:
       - name: lifecycle
