@@ -317,3 +317,8 @@ data:
         - "Issue Hook"
         - "Merge Request Hook"
         - "Push Hook"
+      - name: robot-gitee-edahelper-cla
+        endpoint: http://service-cla.robot-gitee-edahelper.svc.cluster.local:8888/gitee-hook
+        events:
+        - "Merge Request Hook"
+        - "Note Hook"
