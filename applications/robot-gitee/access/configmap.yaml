@@ -147,6 +147,7 @@ data:
         - robot-gitee-mindspore-label
         - robot-gitee-mindspore-tide
         - robot-gitee-mindspore-lifecycle
+        - robot-gitee-mindspore-assign
 
         ms-incubator:
         - robot-gitee-mindspore-cla
