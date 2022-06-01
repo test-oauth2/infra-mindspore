@@ -4,3 +4,14 @@ metadata:
   name: configmap
 data:
   config.yaml: |
+    config_items:
+    - repos:
+      - cann/acl
+      - cann/air
+      - cann/abl-kernel
+      review:
+        number_of_approvers: 1
+        total_number_of_approvers: 1
+        total_number_of_reviewers: 1
+      ci:
+        no_ci: true
