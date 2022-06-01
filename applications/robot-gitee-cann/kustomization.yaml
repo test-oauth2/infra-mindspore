@@ -9,6 +9,7 @@ resources:
 - cla
 - label
 - tide
+- review-trigger
 commonLabels:
   app: infrastructure-robot-gitee
 commonAnnotations:
